@@ -1,0 +1,17 @@
+{
+  "name": "indahl-number-check",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-number-check",
+      "source": "./",
+      "description": "Check every number in a report, memo, deck or dashboard against its source. Each figure is traced and marked HELD, MOVED, NO_SOURCE or CANNOT_TELL with the source line beside it. Runs inside your session.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
